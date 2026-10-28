@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "data_version": "sillok-min-analysis-dev103c1-20261028",
+  "source_classification_regenerated_from_XML": false,
+  "fixed_source_labels_reaggregated_from_full_raw_articles": true,
+  "articles": 36725,
+  "literal_Min_positions": 7041,
+  "CJK": 3476065,
+  "K_CJK": 517949,
+  "O_CJK": 1401546,
+  "K_basic": 1624,
+  "O_basic": 2293,
+  "K_over_O": 1.9164713336941002,
+  "all_7_conditions_and_both_bound_metrics_match": true,
+  "checksummed_files": 30,
+  "independent_historical_accuracy_evaluation": false
+}
