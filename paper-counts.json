@@ -1,0 +1,46 @@
+{
+  "release": "min-context-2026-11-21-v1",
+  "article_total": 36725,
+  "xml_files": 53,
+  "articles_containing_min": 3543,
+  "literal_positions": 7041,
+  "eligible": 6833,
+  "excluded": 208,
+  "context_records": 617,
+  "context_articles": 305,
+  "unread": 6216,
+  "at_least_one_field_checked": 303,
+  "source_or_function_held": 26,
+  "initial_comparison": {
+    "귀속": {
+      "일치": 39,
+      "분모": 46,
+      "대응불가제외": 9
+    },
+    "기능": {
+      "일치": 30,
+      "분모": 36,
+      "대응불가제외": 19
+    },
+    "결합": {
+      "일치": 29,
+      "분모": 34,
+      "대응불가제외": 21
+    }
+  },
+  "development_historical_check": {
+    "articles": 100,
+    "usages": 204,
+    "requirements": 42,
+    "passed": 42,
+    "exact_record_matches": 204,
+    "evidence_spans_checked": 631
+  },
+  "development_eligible": 203,
+  "development_same": 199,
+  "development_different": 4,
+  "validation_articles": 30,
+  "validation_positions": 55,
+  "rows_with_any_initial_difference": 11,
+  "post_agreement_matches_codex_first": 53
+}

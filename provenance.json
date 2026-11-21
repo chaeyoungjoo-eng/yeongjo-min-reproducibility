@@ -1,0 +1,56 @@
+{
+  "paper_version_hashes": [
+    {
+      "chapter": "Ⅰ",
+      "sha256": "653a3cf73ea3916f5f67c84c72a9a3aba0f78bac734e45cfe5e585b01b5e3c61"
+    },
+    {
+      "chapter": "Ⅱ",
+      "sha256": "d3f5a9c41fcfa98e6bff89cca63c8579e2fcb9a3899faf22ad98d89e7ee99607"
+    },
+    {
+      "chapter": "Ⅲ",
+      "sha256": "4d65f31e7fe058d5d017c9d994793e3190230db2c633923b9ff40733255305e1"
+    },
+    {
+      "chapter": "Ⅳ",
+      "sha256": "68f91264df55a4969868e6c13b79fd2b54d3a21a0049d7fe522bc336ebbe742a"
+    }
+  ],
+  "analysis_input_snapshots": [
+    {
+      "file": "Ⅱ장_승인변경후보_delta.zip",
+      "sha256": "cb0a6d79e5a2ce68fd8caa0732d00e97067778bcd7a66947b5cd814b44da1682"
+    },
+    {
+      "file": "Ⅲ장_검토근거_별도후보.zip",
+      "sha256": "7410a01b7bad1cc2f02fd32d91e7eedc1430d78c1fa35d7322c9d11fb4ce23bc"
+    },
+    {
+      "file": "분석용채택.json",
+      "sha256": "a44ead85bc1f95b143354a4b865acc400b2f49c39777286060fafcdde69f4a05"
+    },
+    {
+      "file": "문맥판정_현재613.json",
+      "sha256": "4725b10276f57e7e4a1abfbae0884b31b6957f89e211d6c323158b0be2c4f1b5"
+    },
+    {
+      "file": "신분관계_근거120.json",
+      "sha256": "f76926b4e5e71106a6ab7962fef65936db73c4ef097541b2bff01ecb34021342"
+    },
+    {
+      "file": "사례_용례별범위.csv",
+      "sha256": "213ff3c6fa2b9696228eefd3e52a99788889c0a1ae56c91c48be805b48cb02dc"
+    },
+    {
+      "file": "55행_최초판정일치_대응표.json",
+      "sha256": "16ac202ba0bd24111079c4dc40abd98287977078491f14074c765919e06fde64"
+    },
+    {
+      "file": "XML_목록과해시.json",
+      "sha256": "219f9853b508bbf028dde0830b58587dba119b8a0c10eb2cf0b7a64669b19725"
+    }
+  ],
+  "manuscript_chapter_ii_snapshot": "chapterII-approved-candidate-20261120-v1",
+  "previous_integration": "handoff-20261120-integrated-v3-coordinates"
+}

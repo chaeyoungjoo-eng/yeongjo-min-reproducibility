@@ -1,0 +1,20 @@
+{
+  "README.md": "eab72f08a6a6dcc01e73ae347965b19b6802f59e64133ec0ab81dafec2176c0a",
+  "cases/case-position-index.csv": "1c87e7ac4158acfa45522a29c8a51f24900152388a49ee6bd42aec5607b99a0c",
+  "cases/chapter-ii-source-locations.csv": "8921d8555de1e8bbe290f70fe036215e8ba0154aa2ea0ed2020fee78c1674c1c",
+  "cases/paper-table-locations.csv": "9f32dc70f01bbc7f90a88a6e7953aa2cdbd4c23535b6e8e92654e6410e7c5f1f",
+  "cases/status-evidence.csv": "faefbcd33379e4659e14d7b10fd173e8cb681cd272951c94749a0d410b122961",
+  "classification-codes.csv": "9477ad03eb1eac70c6590d611f5c3b3ac47e24e288a64ab7e925fac11b006abf",
+  "eligible-positions.csv": "b9956ed42fb5ebe4cad5e273aa9d3aaf1da17e42a1d7e3e823d8847ec0909b90",
+  "excluded-positions.csv": "223deadc38273107247e263d7a660094fdb4ee0fa9a355d161fa735a97adb63c",
+  "paper-counts.json": "14086f33eef0f57a6f4238dac6c1f76bfd2b25ea296f0bed93ba843574c49603",
+  "provenance.json": "70be5b0935fae11ee8237a78ab6bfe291967065ca889c036505f2216498dd987",
+  "source-xml.csv": "47227b9f0728c57e818e0f216beff32575d60296f68c8def827238273c5ad5ce",
+  "verification/comparison-rules.json": "b2394c832cd24d82191207184a8fde0d4935153154adadff6697be40c0d6d56c",
+  "verification/development-204.csv": "ed96da8b189af5274e2fd0fa4904b016e40cde7d88c7c289d6227bf22bbbfde4",
+  "verification/development-checks.csv": "0da0b6189ad4eef858604390a1475345b9c4450b9a579df5f4483d525632f846",
+  "verification/development-evidence.csv": "248ac84ddbde6056e2ffe977e8954b6bfd2c2d761dd1046b54c5f24f97b2f739",
+  "verification/first-and-agreed-55.csv": "d857426eb6944327f83ff569e444a38d49397ee28f1c29334a9837f9ced88f0b",
+  "verification/selected-30-articles.csv": "13c79f9111297c37e368617daef2c23daae7726e2fe34f3428a4f33a9fc5f8c0",
+  "verify.py": "4be86efbf8c413bba1c0e4d6342f40a62f66329a770831397fefd7f247836d73"
+}

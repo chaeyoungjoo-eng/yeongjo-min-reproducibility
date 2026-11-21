@@ -1,0 +1,56 @@
+﻿일련번호,용례ID,기사ID,position_id,원문구절,연구자최초_귀속,연구자최초_기능,참조대상,참조해결후_귀속,참조해결후_기능,정규화귀속,정규화기능,귀속분모포함,기능분모포함,결합분모포함,귀속일치,기능일치,결합일치,귀속제외사유,기능제외사유,Codex최초_귀속,Codex최초_기능,협의후_귀속,협의후_기능,이전규칙_귀속분모포함,이전규칙_귀속일치,이전규칙_기능분모포함,이전규칙_기능일치,이전규칙_결합분모포함,이전규칙_결합일치
+4334,V01-M01,wua_12906011_002,wua_12906011_002:MIN18,召農民,,기록전달,,,기록전달,,,False,False,False,,,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,False,,True,True,False,
+3291,V02-M01,wua_12206016_002,wua_12206016_002:MIN11,流民還集,O,기록전달,,O,기록전달,O,,True,False,False,False,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,True,False,True,True,True,False
+3292,V02-M02,wua_12206016_002,wua_12206016_002:MIN29,旣聚之民,위와 동일,위와 동일,V02-M01,O,기록전달,O,,True,False,False,False,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,True,False,True,True,True,False
+3939,V03-M01,wua_12703002_001,wua_12703002_001:MIN1349,西土之民,O,문서전달,,O,문서전달,O,,True,False,False,True,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,O,W,O,W,True,True,False,,False,
+3940,V03-M02,wua_12703002_001,wua_12703002_001:MIN2057,民情之不悅,O,문서전달,,O,문서전달,O,,True,False,False,True,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,O,W,O,W,True,True,False,,False,
+3941,V03-M03,wua_12703002_001,wua_12703002_001:MIN2081,常民旣慣賤役,O,문서전달,,O,문서전달,O,,True,False,False,True,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,O,W,O,W,True,True,False,,False,
+3942,V03-M04,wua_12703002_001,wua_12703002_001:MIN2317,以紓一時之民瘼,O,문서전달,,O,문서전달,O,,True,False,False,True,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,O,W,O,W,True,True,False,,False,
+3943,V03-M05,wua_12703002_001,wua_12703002_001:MIN2374,輿民之望,O,문서전달,,O,문서전달,O,,True,False,False,True,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,O,W,O,W,True,True,False,,False,
+3944,V03-M06,wua_12703002_001,wua_12703002_001:MIN2438,以益生民之怨,O,문서전달,,O,문서전달,O,,True,False,False,True,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,O,W,O,W,True,True,False,,False,
+3945,V03-M07,wua_12703002_001,wua_12703002_001:MIN2593,四方之民心,O,문서전달,,O,문서전달,O,,True,False,False,True,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,O,W,O,W,True,True,False,,False,
+3946,V03-M08,wua_12703002_001,wua_12703002_001:MIN3463,一心爲民,K,직접 발화,,K,직접 발화,K,D,True,True,True,True,True,True,,,K,D,K,D,True,True,True,True,True,True
+5820,V04-M01,wua_14108029_002,wua_14108029_002:MIN12,耆老民人,발화자 없음,문서 전달,,발화자 없음,문서 전달,,,False,False,False,,,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,False,,False,,False,
+6433,V05-M01,wua_14710019_003,wua_14710019_003:MIN55,惟民所止,K,문서소개,,K,문서소개,K,W,True,True,True,False,False,False,,,U,L,U,L,True,False,True,False,True,False
+5364,V06-M01,wua_13707021_003,wua_13707021_003:MIN10,召畿民,K,문서 전달,,K,문서 전달,K,,True,False,False,False,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,True,False,False,,False,
+901,V07-M01,wua_10409005_001,wua_10409005_001:MIN152,便於民者,K,직접 발화,,K,직접 발화,K,D,True,True,True,True,True,True,,,K,D,K,D,True,True,True,True,True,True
+4962,V08-M01,wua_13305017_002,wua_13305017_002:MIN72,東門外民,발화자 없음,문서 전달,,발화자 없음,문서 전달,,,False,False,False,,,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,False,,False,,False,
+4963,V08-M02,wua_13305017_002,wua_13305017_002:MIN104,覽今民情,K,문서 소개,,K,문서 소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+4964,V08-M03,wua_13305017_002,wua_13305017_002:MIN131,至於都民,K,문서 소개,,K,문서 소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+4965,V08-M04,wua_13305017_002,wua_13305017_002:MIN189,非徒泮民,K,문서 소개,,K,문서 소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+4966,V08-M05,wua_13305017_002,wua_13305017_002:MIN195,與東郊民,K,문서 소개,,K,문서 소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+4967,V08-M06,wua_13305017_002,wua_13305017_002:MIN199,民情於此可見,K,문서 소개,,K,문서 소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+4968,V08-M07,wua_13305017_002,wua_13305017_002:MIN224,誠心愛民,K,문서 소개,,K,문서 소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+4969,V08-M08,wua_13305017_002,wua_13305017_002:MIN247,愛民若同胞,K,문서 소개,,K,문서 소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+2627,V09-M01,wua_11610014_002,wua_11610014_002:MIN84,從民願,O(영의정 김재로의 보고),문서 소개,,O(영의정 김재로의 보고),문서 소개,,W,False,True,False,,False,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,,서술,N,서술,N,False,,True,False,False,
+5057,V10-M01,wua_13311019_001,wua_13311019_001:MIN26,大聚都民,발화자 없음,문서전달,,발화자 없음,문서전달,,,False,False,False,,,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,False,,False,,False,
+6833,V11-M01,wua_15201021_004,wua_15201021_004:MIN146,庶民之混釋,O,직접발화,,O,직접발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+1326,V12-M01,wua_10706006_002,wua_10706006_002:MIN61,民不能恃,K,문서소개,,K,문서소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+1327,V12-M02,wua_10706006_002,wua_10706006_002:MIN83,乃所以保民也,위와 동일,위와 동일,V12-M01,K,문서소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+1328,V12-M03,wua_10706006_002,wua_10706006_002:MIN98,民必恃而無恐,위와 옹일,위와 옹일,V12-M01,K,문서소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+1329,V12-M04,wua_10706006_002,wua_10706006_002:MIN141,裕財保民之策,위와 됭일,위와 됭일,V12-M01,K,문서소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+1278,V13-M01,wua_10705012_001,wua_10705012_001:MIN51,念及民事,K,문서소개,,K,문서소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+1279,V13-M02,wua_10705012_001,wua_10705012_001:MIN81,民事若何,K,문서소개,,K,문서소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+1280,V13-M03,wua_10705012_001,wua_10705012_001:MIN97,爲民祈雨,K,문서소개,,K,문서소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+5779,V14-M01,wua_14102103_004,wua_14102103_004:MIN226,膏澤普及於生民,O,문서소개,,O,문서소개,O,W,True,True,True,True,True,True,,,O,W,O,W,True,True,True,True,True,True
+4642,V15-M01,wua_13103005_001,wua_13103005_001:MIN1541,臣民咸頒知悉,K,문서소개,,K,문서소개,K,W,True,True,True,True,True,True,,,K,W,K,W,True,True,True,True,True,True
+3568,V16-M01,wua_12501017_001,wua_12501017_001:MIN87,違拂民心,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+3569,V16-M02,wua_12501017_001,wua_12501017_001:MIN117,務悅都下民心,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+3570,V16-M03,wua_12501017_001,wua_12501017_001:MIN209,自然民畏之,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+3571,V16-M04,wua_12501017_001,wua_12501017_001:MIN333,節用而愛民,K,직접 발화,,K,직접 발화,K,D,True,True,True,False,False,False,,,U,L,U,L,True,False,True,False,True,False
+4938,V17-M01,wua_13303022_001,wua_13303022_001:MIN25,流民散四,O,문서전달,,O,문서전달,O,,True,False,False,False,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,True,False,False,,False,
+5373,V18-M01,wua_13709020_004,wua_13709020_004:MIN18,三廛市民,K,기사전달,,K,기사전달,K,,True,False,False,False,,,,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,True,False,False,,False,
+3395,V19-M01,wua_12309012_001,wua_12309012_001:MIN328,"賑民, 而無一人流亡",O,인용발화,,O,인용발화,O,Q,True,True,True,True,False,False,,,O,W,O,W,True,True,True,False,True,False
+1773,V20-M01,wua_10908007_004,wua_10908007_004:MIN1071,不久於平民,,공초 중에 최봉희가 김원팔의 말을 인용한 발화,,,공초 중에 최봉희가 김원팔의 말을 인용한 발화,,,False,False,False,,,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,P,Q,P,Q,False,,True,True,False,
+524,V21-M01,wua_10303030_005,wua_10303030_005:MIN317,軍民呼冤,O,문서소개,,O,문서소개,O,W,True,True,True,True,True,True,,,O,W,O,W,True,True,True,True,True,True
+5688,V22-M01,wua_14006020_002,wua_14006020_002:MIN21,車嶺民三十二戶,발화자 없음,문서 전달,,발화자 없음,문서 전달,,,False,False,False,,,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,서술,N,서술,N,False,,False,,False,
+5636,V23-M01,wua_14001004_006,wua_14001004_006:MIN150,勞民費財,K(영조의 말을 이 기사가 전달하는 역할),문서 전달,,K(영조의 말을 이 기사가 전달하는 역할),문서 전달,,,False,False,False,,,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,Q3 C: 정식 기능명·코드에 일치하지 않음. 기록전달 및 설명형 V20의 특수 대응을 적용하지 않음,C,C,C,C,False,,False,,False,
+3127,V24-M01,wua_12011007_001,wua_12011007_001:MIN70,以爲民極,,경전 인용,,,경전 인용,,L,False,True,False,,True,,Q3 C: 명시적으로 일치하는 귀속 코드가 아님. 자유서술에서 새 귀속을 추정하지 않음,,U,L,U,L,False,,True,True,False,
+1396,V25-M01,wua_10709009_004,wua_10709009_004:MIN67,重民天之意,O,문서소개,,O,문서소개,O,W,True,True,True,True,True,True,,,O,W,O,W,True,True,True,True,True,True
+5842,V26-M01,wua_14111014_002,wua_14111014_002:MIN114,民願又欲作米,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+1890,V27-M01,wua_10912024_002,wua_10912024_002:MIN147,民力可紓,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+623,V28-M01,wua_10311011_003,wua_10311011_003:MIN28,坊民不能支堪,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+624,V28-M02,wua_10311011_003,wua_10311011_003:MIN127,坊民無偏若之患,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+5239,V29-M01,wua_13602028_001,wua_13602028_001:MIN47,民間未捧錢,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,True,True,,,O,D,O,D,True,True,True,True,True,True
+6597,V30-M01,wua_14907005_002,wua_14907005_002:MIN68,吏民受困,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,False,False,,,O,W,O,D,True,True,True,False,True,False
+6598,V30-M02,wua_14907005_002,wua_14907005_002:MIN117,民不聊生,O,직접 발화,,O,직접 발화,O,D,True,True,True,True,False,False,,,O,W,O,D,True,True,True,False,True,False
