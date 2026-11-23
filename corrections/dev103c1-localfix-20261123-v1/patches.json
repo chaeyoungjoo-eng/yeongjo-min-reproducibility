@@ -1,0 +1,70 @@
+{
+  "version": "dev103c1-localfix-20261123-v1",
+  "adopted_date": "2026-11-23",
+  "operations": [
+    {
+      "article_id": "wua_12008008_002",
+      "case": "A",
+      "span": [
+        27,
+        52
+      ],
+      "E": "K",
+      "genre": "발언",
+      "function": "직접 발화",
+      "node_id": "wua_12008008_002:W1A_K"
+    },
+    {
+      "article_id": "wua_12212027_001",
+      "case": "B",
+      "span": [
+        100,
+        110
+      ],
+      "E": "U",
+      "genre": "문헌 인용",
+      "function": "비발화",
+      "node_id": "wua_12212027_001:W1B_QUOTE"
+    },
+    {
+      "article_id": "wua_12212027_001",
+      "case": "D",
+      "span": [
+        272,
+        299
+      ],
+      "E": "K",
+      "genre": "발언",
+      "function": "직접 발화",
+      "node_id": "wua_12212027_001:W1D_K",
+      "decision_status": "researcher_approved"
+    },
+    {
+      "article_id": "wua_12812018_001",
+      "case": "C",
+      "span": [
+        937,
+        1494
+      ],
+      "E": "C",
+      "genre": "기록서술",
+      "function": "기록서술",
+      "node_id": "wua_12812018_001:W1C_COMMENTARY",
+      "decision_status": "researcher_approved"
+    },
+    {
+      "article_id": "wua_13011020_002",
+      "case": "C",
+      "span": [
+        1033,
+        1191
+      ],
+      "E": "C",
+      "genre": "기록서술",
+      "function": "기록서술",
+      "node_id": "wua_13011020_002:W1C_COMMENTARY",
+      "decision_status": "researcher_approved"
+    }
+  ],
+  "no_change_to_original_data": true
+}
