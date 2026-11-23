@@ -1,0 +1,8 @@
+{
+  "README.md": "895e9f4f6cd13202e793ee0ab532c5425f0fd68e9cc0dfaf66a3cce69a0d9501",
+  "source.json": "ac765b85dfdb7ad553df724e946874c36006b6d34d8c9049206c6d022fa5629a",
+  "target_ranges.json": "96cd6eb68cf6080f3529eae2706912d747536443f8786991e313ba4e054e22a3",
+  "patches.json": "31133fea3273fd5b8f3c2f385ce7a8cef499a34aecd45d6d614490fa78b23338",
+  "reproduce_localfix.py": "19d7dd23c1f019179a6a40a20b627e4ef0084a7704072738007bd0de688e06ef",
+  "expected_impact_results.json": "4f7f6464160bccc2b49a21daed1175b336166f2df277b5b1f7b4cc0a2e5027ca"
+}
