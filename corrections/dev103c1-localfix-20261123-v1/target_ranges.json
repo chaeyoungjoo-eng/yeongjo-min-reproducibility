@@ -1,0 +1,126 @@
+{
+  "wua_12008008_002": {
+    "span": [
+      27,
+      52
+    ],
+    "literal_Min": 1,
+    "raw_CJK": 20,
+    "before_cells": [
+      {
+        "E": "O",
+        "genre": "발언",
+        "function": "직접 발화",
+        "mask": "eligible",
+        "CJK": 20
+      }
+    ]
+  },
+  "wua_12212027_001": {
+    "span": [
+      100,
+      110
+    ],
+    "literal_Min": 1,
+    "raw_CJK": 8,
+    "before_cells": [
+      {
+        "E": "K",
+        "genre": "문서",
+        "function": "문서 소개",
+        "mask": "eligible",
+        "CJK": 8
+      }
+    ]
+  },
+  "wua_12812018_001": {
+    "span": [
+      937,
+      1494
+    ],
+    "literal_Min": 0,
+    "raw_CJK": 420,
+    "before_cells": [
+      {
+        "E": "C",
+        "genre": "문서",
+        "function": "문서 소개",
+        "mask": "excluded",
+        "CJK": 2
+      },
+      {
+        "E": "C",
+        "genre": "문서",
+        "function": "문서 소개",
+        "mask": "eligible",
+        "CJK": 3
+      },
+      {
+        "E": null,
+        "genre": "보류",
+        "function": null,
+        "mask": "eligible",
+        "CJK": 108
+      },
+      {
+        "E": null,
+        "genre": "보류",
+        "function": null,
+        "mask": "excluded",
+        "CJK": 7
+      },
+      {
+        "E": "서술",
+        "genre": "기록서술",
+        "function": "기록서술",
+        "mask": "eligible",
+        "CJK": 298
+      },
+      {
+        "E": "서술",
+        "genre": "기록서술",
+        "function": "기록서술",
+        "mask": "excluded",
+        "CJK": 2
+      }
+    ]
+  },
+  "wua_13011020_002": {
+    "span": [
+      1033,
+      1191
+    ],
+    "literal_Min": 0,
+    "raw_CJK": 117,
+    "before_cells": [
+      {
+        "E": "C",
+        "genre": "문서",
+        "function": "문서 소개",
+        "mask": "eligible",
+        "CJK": 4
+      },
+      {
+        "E": null,
+        "genre": "보류",
+        "function": null,
+        "mask": "eligible",
+        "CJK": 79
+      },
+      {
+        "E": "서술",
+        "genre": "기록서술",
+        "function": "기록서술",
+        "mask": "eligible",
+        "CJK": 12
+      },
+      {
+        "E": null,
+        "genre": "보류",
+        "function": null,
+        "mask": "excluded",
+        "CJK": 22
+      }
+    ]
+  }
+}
