@@ -1,0 +1,8 @@
+{
+  "analysis_version": "dev103c1-localfix-20261123-v1",
+  "base_release": "dev103c1-repro-v1",
+  "base_release_url": "https://github.com/chaeyoungjoo-eng/yeongjo-min-reproducibility/releases/tag/dev103c1-repro-v1",
+  "asset_name": "yeongjo-min-dev103c1-repro-v1.zip",
+  "sha256": "48168aefddfe0fb842b7887a79589f3ef28285da213d552f59f03c3e5c30a002",
+  "scope": "Accepted local attribution and quotation-boundary corrections on four articles; original dev103c1 remains unchanged."
+}
